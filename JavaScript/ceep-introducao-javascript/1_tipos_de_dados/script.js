@@ -79,3 +79,4 @@ console.log('--------------------');
 console.log('Conversões automáticas no Javascript');
 console.log('Conversão 1: ', '5' + 3); // conversão automática em versões mais atuais do Javascript
 console.log('Conversão 2: ', 5 * testeNull);
+
